@@ -1,0 +1,5 @@
+Name = input ("Enter a name")
+Place = input ("enter a name of a place")
+activity = ("what ti do?")
+time = ("whats the date and time")
+print (Name + activty + "in" + Place + time + "then he fell down a cliff and died")
