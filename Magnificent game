@@ -1,5 +1,12 @@
 Name = input ("Enter a name")
 Place = input ("enter a name of a place")
-activity = ("what ti do?")
-time = ("whats the date and time")
-print (Name + activty + "in" + Place + time + "then he fell down a cliff and died")
+activity = input ("what to do?")
+time = input ("whats the date and time")
+Suck = input ("A sport game that you duck in")
+Hate = input ("An activty you hate")
+Name_2 = input(" A guy you hate")
+Curse = input (" your favorite curse")
+Boxing_move = input ("your favorite boxing move")
+
+
+print (Name + Place + activity + time + Suck + Hate + Name_2 + Curse + Boxing_move)
